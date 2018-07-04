@@ -7,6 +7,8 @@
 - [Conditional Stop](https://github.com/HITS-MBM/gromacs-developments)
 - [Force Distribution Analysis (FDA)](https://github.com/HITS-MBM/gromacs-fda) ([older versions](https://github.com/HITS-MBM/fda-archive))
 - [Sliced Pull](https://github.com/HITS-MBM/gromacs-developments)
+    - based on GROMACS [version 2016.5](http://manual.gromacs.org/documentation/2016.5/ReleaseNotes/): [code](https://github.com/HITS-MBM/gromacs-developments/tree/sliced-pull-release-2016), [documentation](/gromacs-documentation/sliced-pull/2016.5/user-guide/mdp-options.html#com-pulling)
+    - based on GROMACS [version 2018.2](http://manual.gromacs.org/documentation/2018.2/release-notes/): [code](https://github.com/HITS-MBM/gromacs-developments/tree/sliced-pull-release-2018), [documentation](/gromacs-documentation/sliced-pull/2018.2/user-guide/mdp-options.html#com-pulling)
 
 ### Standalone software packages
 
